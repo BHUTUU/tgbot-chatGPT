@@ -1,0 +1,24 @@
+{
+    "tgbot": [
+        {
+            "program": "tgbot-chatGPT",
+            "version": "0.0.1",
+            "edition": 2023,
+            "bot_token": "",
+            "openai_token": "",
+            "owner_id": 1359075231,
+            "admins": [1359075231],
+            "author": "Suman Kumat ~BHUTUU",
+            "company": "BHUTUU",
+            "github": "https://github.com/BHUTUU/tgbot-chatGPT"
+        }
+    ],
+    "mysql": [
+        {
+            "host": "localhost",
+            "user": "root",
+            "password": "root",
+            "database_name" : "telegrambot"
+        }
+    ]
+}
